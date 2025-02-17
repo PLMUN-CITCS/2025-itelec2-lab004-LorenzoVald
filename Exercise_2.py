@@ -8,4 +8,4 @@ print("String: %s" % user_text)
 print("Formatted Output using f-strings:")
 print(f"Integer: {user_integer}")
 print(f"Decimal: {user_decimal:.2f}") # format decimal to two places
-print(f"string: {user_text}") 
+print(f"string: {user_text}")
